@@ -2,7 +2,8 @@ This Application created in Angular 11 version and It will give weather forecast
 We have used Angular material for basic designing.
 
 There are 2 tabs here 
-1. Home (We can add any thing here related to app)
+1. Home - this tab contain basic information of app.
+2. Weather Information - this tab contain weather information based on city.
 
 How To use app.
 

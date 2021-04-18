@@ -15,4 +15,4 @@ How To use app.
 4. go in folder where package.json file exist
 5. run npm install
 6. run npm start
-7. open browser and type http//:localhost:4200
+7. open browser and type http://localhost:4200
